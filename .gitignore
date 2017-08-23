@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Library
+/New folder/.vs/Space Shooter/v14
+/UWP
+/New folder/Players
+*.dll
